@@ -1,4 +1,4 @@
-# GroundingDINO for Medical Image Segmentation
+# GroundingDINO 
 
 ## Overview
 
