@@ -478,13 +478,3 @@ python train.py \
     --device cuda
 ```
 
-## Citation
-
-```bibtex
-@article{medical_groundingdino_2024,
-  title={GroundingDINO for Medical Image Segmentation: A Technical Deep Dive},
-  author={[Your Name]},
-  journal={arXiv preprint arXiv:2024.xxxxx},
-  year={2024}
-}
-``` 
